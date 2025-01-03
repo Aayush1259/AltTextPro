@@ -4,8 +4,13 @@ An AI-powered image analysis tool that generates detailed alt text, contextual i
 
 # Features
 🖼️ Image Upload & Processing with drag-and-drop support
+
 🤖 AI-Powered Caption Generation
+
 📝 Enhanced Context Generation
+
 🎭 Sentiment Analysis with emotional elements
+
 🔄 Multiple AI Model Support (OpenAI, Gemini, Meta Llama 3,2-11B Vision Instruct)
+
 🎨 Modern, Responsive UI with styled-components
